@@ -1,0 +1,17 @@
+.header-container {
+
+    background-color: #fefae0;
+    color: #d4a373;
+    text-align: center;
+    padding: 20px;
+}
+
+.header-name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+.header-title {
+    font-size: 24px;
+}

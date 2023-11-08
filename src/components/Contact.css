@@ -1,0 +1,29 @@
+.contact {
+    background-color: #d4a373;
+    /* Red background color */
+    padding: 20px;
+    text-align: center;
+}
+
+.contact h2 {
+    font-size: 24px;
+    color: #fff;
+    /* White text color */
+}
+
+.contact p {
+    font-size: 16px;
+    color: #fff;
+    /* White text color */
+    margin-top: 10px;
+}
+
+.contact-info {
+    margin-top: 20px;
+}
+
+.contact-info p {
+    font-size: 16px;
+    color: #333;
+    /* Dark gray text color */
+}
