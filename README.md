@@ -1,5 +1,3 @@
-#Link [To Access](https://react-task6-rahuls-projects-d6b80481.vercel.app/)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
